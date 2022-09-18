@@ -8,7 +8,7 @@ I started learning Python and Java by myself during a pandemic and fell in love 
 
 * 🌍  I'm based in Albany, NY
 * ✉️  You can contact me at [mirmammadjavadzada@gmail.com](mailto:mirmammadjavadzada@gmail.com)
-* 🧠  I'm learning R & JS
+* 🧠  I'm learning R & c
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/MiriJ15" target="_blank" rel="noreferrer"><img
