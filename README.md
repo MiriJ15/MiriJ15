@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mir-Mammad
 ==================================================================================================================================
 
-Undergraduate Bioinformatics Fellow
+M.S. Computational Biology at Weill Cornell
 -----------------------------------
 
 I started learning Python and Java by myself during a pandemic and fell in love with programming!
 
-* 🌍  I'm based in Albany, NY
+* 🌍  I'm based in New York, NY
 * ✉️  You can contact me at [mirmammadjavadzada@gmail.com](mailto:mirmammadjavadzada@gmail.com)
-* 🧠  I'm learning R
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/MiriJ15" target="_blank" rel="noreferrer"><img
