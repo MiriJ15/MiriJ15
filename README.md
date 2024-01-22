@@ -10,8 +10,6 @@ I started learning Python and Java by myself during a pandemic and fell in love 
 * ✉️  You can contact me at [mirmammadjavadzada@gmail.com](mailto:mirmammadjavadzada@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/MiriJ15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MiriJ15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
